@@ -6,11 +6,11 @@ Sripatum University | CPE
 
 * ✉️  You can contact me at [paramet.khing@gmail.com](mailto:paramet.khing@gmail.com)
 <div id="hader" align="center">
-    <img src="https://i.ppy.sh/186308cada93f80d0f4232e5e54549dfad2b0af8/68747470733a2f2f6d656469612e74656e6f722e636f6d2f313430704d4239656f384141414141432f7375697365692d74616c616c612e676966" width="100" />
+    <img src="https://i.ppy.sh/186308cada93f80d0f4232e5e54549dfad2b0af8/68747470733a2f2f6d656469612e74656e6f722e636f6d2f313430704d4239656f384141414141432f7375697365692d74616c616c612e676966" width="200" />
 </div>
 
 <div id="badges" align="center">
-      <a href="in.linkedin.com/in/paramet-pra/" target=_blank>
+      <a href="https://in.linkedin.com/in/paramet-pra/" target=_blank>
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
 </div>
