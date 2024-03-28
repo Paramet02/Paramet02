@@ -9,7 +9,6 @@ Sripatum University | CPE
 </div>
 
 
-Sripatum University | CPE
 -------------------------
 
 * 🌍  I'm based in Pathum Thani , Thailand
