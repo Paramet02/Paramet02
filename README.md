@@ -13,7 +13,7 @@ Sripatum University | CPE
 
 * 🌍  I'm based in Pathum Thani , Thailand
 * ✉️  You can contact me at [paramet.khing@gmail.com](mailto:paramet.khing@gmail.com)
-* 🧠  I'm learning react.js (react native) , mobile app and iot
+* 🧠  I'm learning react.js (react native) , mobile app and ML
 
 ### Skills
 
